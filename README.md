@@ -1,0 +1,2 @@
+# Atividades_Teoria_da_Computacao
+Exercícios sobre Autômatos
